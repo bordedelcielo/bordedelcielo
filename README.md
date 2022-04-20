@@ -1,5 +1,7 @@
 Welcome to my GitHub page 🙂
 
+Please feel free to reach me on <a href="https://www.linkedin.com/in/christopher-thrutchley/">LinkedIn</a> or via email.
+
 <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="300">
 
 Here are some of the languages that I enjoy writing in.
