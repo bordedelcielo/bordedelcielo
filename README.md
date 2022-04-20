@@ -1,6 +1,6 @@
 Welcome to my GitHub page.
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://giphy.com/stickers/FNBO-covid-wfh-workfromhome-KZ4vcCsB00OfUICNve" width="300"/>
 </div>
 
