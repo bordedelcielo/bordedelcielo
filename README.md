@@ -1,7 +1,7 @@
 Welcome to my GitHub page.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw" width="300"/>
+  <img src="https://giphy.com/embed/mAZf4H4Pi0wwlj3ZAw" width="300"/>
 </div>
 
 <iframe src="https://giphy.com/embed/mAZf4H4Pi0wwlj3ZAw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw">via GIPHY</a></p>
