@@ -4,9 +4,9 @@ Welcome to my GitHub page 🙂
 
 Here are some of the languages that I enjoy writing in.
 
-<span>[![bordedelcielo github stats](https://github-readme-stats.vercel.app/api?username=bordedelcielo)](https://github.com/bordedelcielo/github-readme-stats)
+[![bordedelcielo github stats](https://github-readme-stats.vercel.app/api?username=bordedelcielo)](https://github.com/bordedelcielo/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook&theme=tokyonight)</span>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook&theme=tokyonight)
 
 I am on Code Wars!
 
