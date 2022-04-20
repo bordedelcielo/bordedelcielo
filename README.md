@@ -1,6 +1,6 @@
 Welcome to my GitHub page 🙂
 
-Please feel free to reach me on <a href="https://www.linkedin.com/in/christopher-thrutchley/">LinkedIn</a>!
+Please feel free to reach me on <a href="https://www.linkedin.com/in/christopher-thrutchley/">LinkedIn</a> or via <a href="<a href="mailto:email@example.com?">email</a>!
 
 In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Proxy_firm">proxy advisory industry</a> to pursue a career in software engineering. My primary topics of interest are Python algorithms, web development, APIs, Salesforce, and Solidity. I am always open to trying a new technology or language.
 
