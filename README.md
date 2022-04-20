@@ -1,10 +1,6 @@
 Welcome to my GitHub page.
 
-<div id="header" align="center">
-  <img src="https://giphy.com/embed/mAZf4H4Pi0wwlj3ZAw" width="300"/>
-</div>
-
-<iframe src="https://giphy.com/embed/mAZf4H4Pi0wwlj3ZAw" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cloud-wifi-mAZf4H4Pi0wwlj3ZAw">via GIPHY</a></p>
+<img src="https://giphy.com/stickers/FNBO-covid-wfh-workfromhome-KZ4vcCsB00OfUICNve" width="40" height="40" />
 
 [![bordedelcielo github stats](https://github-readme-stats.vercel.app/api?username=bordedelcielo)](https://github.com/bordedelcielo/github-readme-stats)
 
