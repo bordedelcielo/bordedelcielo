@@ -1,6 +1,6 @@
 Welcome to my GitHub page.
 
-<img src="https://giphy.com/stickers/FNBO-covid-wfh-workfromhome-KZ4vcCsB00OfUICNve" width="300">
+<img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s">
 
 [![bordedelcielo github stats](https://github-readme-stats.vercel.app/api?username=bordedelcielo)](https://github.com/bordedelcielo/github-readme-stats)
 
