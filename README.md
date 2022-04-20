@@ -1,3 +1,3 @@
 Welcome to my GitHub page.
 
-https://www.codewars.com/users/bordedelcielo/badges/large
+![foo](/url "https://www.codewars.com/users/bordedelcielo/badges/large")
