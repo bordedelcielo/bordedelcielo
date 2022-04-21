@@ -12,6 +12,10 @@ Here are some of the languages that I enjoy writing in.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook&theme=tokyonight)
 
+My Salesforce badges
+
+<img alt="Platform Development Basics" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/platform_dev_basics/1032ac92bf6f133413628588c39308a7_badge.png" width="100">
+
 I am on Code Wars!
 
 ![This is an image](https://www.codewars.com/users/bordedelcielo/badges/large)
