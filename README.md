@@ -14,8 +14,6 @@ Here are some of the languages that I enjoy writing in.
 
 My Salesforce badges
 
-<div class="badges-container"><lwc-tbui-badge class="badge"></lwc-tbui-badge><lwc-tbui-badge class="badge"></lwc-tbui-badge><lwc-tbui-badge class="badge"></lwc-tbui-badge><lwc-tbui-badge class="badge"></lwc-tbui-badge><lwc-tbui-badge class="badge"></lwc-tbui-badge><lwc-tbui-badge class="badge"></lwc-tbui-badge></div>
-
 I am on Code Wars!
 
 ![This is an image](https://www.codewars.com/users/bordedelcielo/badges/large)
