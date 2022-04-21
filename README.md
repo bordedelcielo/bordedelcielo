@@ -19,7 +19,8 @@ My Salesforce badges
 
 <img alt="Data Management" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_implementation_data_management/4e8c947ac2967be79e0ca2722dcd491f_badge.png" width="50">
 
-<img alt="Data Modeling" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/data_modeling/c87f1c467561ff36a9bffdebcbc835e8_badge.png" width="50"></span>
+<img alt="Data Modeling" 
+src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/data_modeling/c87f1c467561ff36a9bffdebcbc835e8_badge.png" width="50"></span>
 </div>
   
 I am on Code Wars!
