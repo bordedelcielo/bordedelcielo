@@ -17,7 +17,7 @@ My Salesforce Trailhead badges 🌲
 <div>
   <span>
     <a href="https://trailhead.salesforce.com/en/content/learn/modules/platform_dev_basics" title="Platform Development Basics"><img alt="Platform Development Basics" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/platform_dev_basics/1032ac92bf6f133413628588c39308a7_badge.png" width="50"></a>
-    <img alt="Data Management" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_implementation_data_management/4e8c947ac2967be79e0ca2722dcd491f_badge.png" width="50">
+    <a href="https://trailhead.salesforce.com/en/content/learn/modules/lex_implementation_data_management" title="Data Management"><img alt="Data Management" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_implementation_data_management/4e8c947ac2967be79e0ca2722dcd491f_badge.png" width="50"></a>
     <img alt="Data Modeling" 
 src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/data_modeling/c87f1c467561ff36a9bffdebcbc835e8_badge.png" width="50">
     <img alt="Salesforce CRM" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/lex_implementation_basics/56b5a2cb9fb731dbfe6b5b88cd855775_badge.png" width="50">
