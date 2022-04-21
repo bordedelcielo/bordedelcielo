@@ -12,7 +12,7 @@ Here are some of the languages that I enjoy writing in.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook&theme=tokyonight)
 
-My Salesforce Trailhead badges 🌲
+My <a href="https://trailblazer.me/id/bordedelcielo">Salesforce Trailhead</a> badges 🌲
 
 <div>
   <span>
