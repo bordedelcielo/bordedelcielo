@@ -25,7 +25,8 @@ src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/dat
     <img alt="Trailhead and Trailblazer Community" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/11592ff48bc3b35bcd9945e6bde11319_badge.png" width="50">
   </span>
 </div>
+
   
-I am on Code Wars!
+I am on Code Wars ⌨🖱
 
 ![This is an image](https://www.codewars.com/users/bordedelcielo/badges/large)
