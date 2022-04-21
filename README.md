@@ -12,7 +12,7 @@ Here are some of the languages that I enjoy writing in.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook&theme=tokyonight)
 
-My Salesforce badges
+My Salesforce Trailhead badges 🌲
 
 <div>
   <span>
