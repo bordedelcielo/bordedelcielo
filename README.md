@@ -8,6 +8,8 @@ In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Pro
     
 Here are some of the languages that I enjoy writing in.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bordedelcielo)](https://git.io/streak-stats)
+
 [![bordedelcielo github stats](https://github-readme-stats.vercel.app/api?username=bordedelcielo)](https://github.com/bordedelcielo/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook&theme=tokyonight)
