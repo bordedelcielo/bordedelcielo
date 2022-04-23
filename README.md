@@ -5,8 +5,6 @@ Please feel free to reach me on <a href="https://www.linkedin.com/in/christopher
 In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Proxy_firm">proxy advisory industry</a> to pursue a career in software engineering. My primary topics of interest are Python algorithms, web development, APIs, Salesforce, and Solidity. I am always open to trying a new technology or language.
     
 <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="200">
-    
-Here are some of the languages that I enjoy writing in.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bordedelcielo)](https://git.io/streak-stats)
 
