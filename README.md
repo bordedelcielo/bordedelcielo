@@ -6,7 +6,6 @@ In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Pro
 
 <div id="header" align="center">
     <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="200">
-</div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bordedelcielo)](https://git.io/streak-stats)
 
@@ -32,3 +31,4 @@ I am on Code Wars ⌨🖱
 <br>
 
 ![This is an image](https://www.codewars.com/users/bordedelcielo/badges/large)
+    </div>
