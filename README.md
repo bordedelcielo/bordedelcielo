@@ -9,7 +9,7 @@ In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Pro
 <div id="header" align="center">
     <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="200">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook,HTML&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordedelcielo&hide=Jupyter+Notebook,HTML,CSS&theme=tokyonight)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bordedelcielo)](https://git.io/streak-stats)
 
