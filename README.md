@@ -2,6 +2,8 @@ Hello World
 
 Welcome to my GitHub page 🙂
 
+Check out my portfolio site <a href="https://bordedelcielo.github.io/my-portfolio-site/">here</a>.
+
 Please feel free to reach me on <a href="https://www.linkedin.com/in/christopher-thrutchley/">LinkedIn</a> or via <a href="mailto:christopher.thrutchley@gmail.com?">email</a>! I also have a profile on <a href="https://trailblazer.me/id/bordedelcielo">Salesforce Trailhead</a>.
 
 In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Proxy_firm">proxy advisory industry</a> to pursue a career in software engineering. My primary interest is full-stack web applications built using Python frameworks, JavaScript, CSS, React, and PostgreSQL. I am also curious about performance optimization, DevOps, and cybersecurity.
