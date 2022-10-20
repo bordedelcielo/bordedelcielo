@@ -17,7 +17,7 @@ In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Pro
 
 [![bordedelcielo github stats](https://github-readme-stats.vercel.app/api?username=bordedelcielo)](https://github.com/bordedelcielo/github-readme-stats)
 
-## My <a href="https://trailblazer.me/id/bordedelcielo">Salesforce Trailhead</a> badges 🌲
+## <a href="https://trailblazer.me/id/bordedelcielo">Salesforce Trailhead</a> 🌲
 
 <div>
   <span>
