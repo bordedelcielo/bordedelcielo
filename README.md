@@ -6,7 +6,7 @@ Check out my portfolio site <a href="https://bordedelcielo.github.io/my-portfoli
 
 Please feel free to reach me on <a href="https://www.linkedin.com/in/christopher-thrutchley/">LinkedIn</a> or via <a href="mailto:christopher.thrutchley@gmail.com?">email</a>! I also have a profile on <a href="https://trailblazer.me/id/bordedelcielo">Salesforce Trailhead</a>.
 
-In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Proxy_firm">proxy advisory industry</a> to pursue a career in software engineering. My primary interest is full-stack web applications built using Python frameworks, JavaScript, CSS, React, and PostgreSQL. I am also curious about performance optimization, DevOps, and cybersecurity.
+In 2021 I resigned from my job in the <a href="https://en.wikipedia.org/wiki/Proxy_firm">proxy advisory industry</a> to pursue a career as a software developer. My primary interest is full-stack web applications built using Python frameworks, JavaScript, CSS, React, and PostgreSQL. I am also curious about performance optimization, DevOps, and cybersecurity.
 
 <div id="header" align="center">
     <img src="https://media3.giphy.com/media/KZ4vcCsB00OfUICNve/giphy.gif?cid=790b761150eed1331b617d44d1508591d68f5c32f82e932e&rid=giphy.gif&ct=s" height="200">
