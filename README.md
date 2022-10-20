@@ -33,7 +33,6 @@ src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/dat
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/bordedelcielo?theme=dark)](https://leetcode.com/bordedelcielo)
 
-<br>
 I am on Code Wars ⌨🖱
 <br>
 
