@@ -31,6 +31,8 @@ src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/dat
   </span>
 </div>
 
+## Leet Code and Code Wars stats
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/bordedelcielo?theme=dark)](https://leetcode.com/bordedelcielo)
 
 I am on Code Wars ⌨🖱
