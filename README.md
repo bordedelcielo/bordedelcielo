@@ -30,6 +30,10 @@ src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/dat
     <a href="https://trailhead.salesforce.com/en/content/learn/modules/trailhead_basics" title="Trailhead and Trailblazer Community"><img alt="Trailhead and Trailblazer Community" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/11592ff48bc3b35bcd9945e6bde11319_badge.png" width="50"></a>
   </span>
 </div>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/bordedelcielo?theme=unicorn)](https://leetcode.com/bordedelcielo)
+</div>
+
 <br>
 I am on Code Wars ⌨🖱
 <br>
