@@ -1,6 +1,6 @@
 Hello World
 
-Welcome to my GitHub page 🙂
+Welcome to my GitHub page 🙂 !
 
 Check out my portfolio site <a href="https://bordedelcielo.github.io/my-portfolio-site/">here</a>.
 
